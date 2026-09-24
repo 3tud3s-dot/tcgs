@@ -1,0 +1,25 @@
+# Independent source repositories (not submodules)
+/SoMA/
+/deform360/
+/PhysTwin/
+
+# Server-only data and experiment artifacts
+/datasets/
+*.ply
+*.mp4
+*.h5
+*.npy
+checkpoints/
+cache/
+.cache/
+outputs/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Environment records/environments excluded from workspace Git
+/environment/
+
+# macOS metadata
+.DS_Store

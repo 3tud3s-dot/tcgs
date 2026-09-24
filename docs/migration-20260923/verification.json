@@ -1,0 +1,44 @@
+{
+  "checked_at": "2026-09-23T16:31:19.799813+08:00",
+  "repos": {
+    "PhysTwin": {
+      "origin_fetch": "https://github.com/Jianghanxiao/PhysTwin.git",
+      "origin_push": "https://github.com/Jianghanxiao/PhysTwin.git",
+      "branch": "main",
+      "head": "84d5adb5646097a7836faa3aeed01b3c33318d21",
+      "tree": "5d4d4ae3f2056ba2d2fa5ab502d692cc36e494eb",
+      "status": "",
+      "shallow": "true",
+      "verified_tracked_files": 819,
+      "object_integrity": "PASS; no missing reachable objects; no alternates"
+    },
+    "SoMA": {
+      "origin_fetch": "https://github.com/Wrioste/SoMA.git",
+      "origin_push": "https://github.com/Wrioste/SoMA.git",
+      "branch": "main",
+      "head": "8e8772a98f5eeb332745d9b6dd008e6927f050af",
+      "tree": "f56225480d83e61a1039cfed3a4da02f156c2d41",
+      "status": "",
+      "shallow": "false",
+      "verified_tracked_files": 231,
+      "object_integrity": "PASS; no missing reachable objects; no alternates"
+    },
+    "deform360": {
+      "origin_fetch": "https://github.com/lhy0807/deform360.git",
+      "origin_push": "https://github.com/lhy0807/deform360.git",
+      "branch": "main",
+      "head": "d8522a4403b766aeb387510c04e89032a56fdf35",
+      "tree": "0249eaa110f59dd46f623971c37e13980734dc0e",
+      "status": "",
+      "shallow": "false",
+      "verified_tracked_files": 84,
+      "object_integrity": "PASS; no missing reachable objects; no alternates"
+    }
+  },
+  "environment": {
+    "files": 81,
+    "bytes": 1368488,
+    "sha256": "all match server audit"
+  },
+  "agents_sha256": "a63de9cf24e14ee9ee936a261ce76361a2af16c96fd2c022f6278166b3f69304"
+}
